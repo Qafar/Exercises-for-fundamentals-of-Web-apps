@@ -45,7 +45,6 @@ const App = () => {
       ],
     },
   ];
-  //const totalExercises = parts[0].exercises + parts[1].exercises + parts[2].exercises;
 
   return (
     <div>
